@@ -7,7 +7,7 @@ Deploy: push to GitHub → Settings → Pages (main / root), or drag the folder 
 Responsive landing page built from the provided Figma design, for the Unbundl Web Dev Intern assessment.
 
 **Live URL:** <https://comforting-basbousa-1e2eda.netlify.app/>
-**Repository:** <your-github-repo-link>
+**Repository:** <https://github.com/mehakgarg-pro/clove-dental>
 
 ## Tech Stack
 
